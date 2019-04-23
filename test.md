@@ -1,4 +1,4 @@
 ## first commit
-## add first branch
+## add first branch should show conflict
 
 ## add second branch
